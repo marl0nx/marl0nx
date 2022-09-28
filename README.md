@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ProxZ | Elite Proxy Scraper<br>🌱 I’m currently learning Python<br>💬 Discord: Marl0nX#0091
+🔭 I’m currently working on ProxZ | Super fast Proxy Scraper<br>🌱 I’m currently learning Python<br>💬 Discord: Marl0nX#0091
 
 
 ## 🌐 Socials:
