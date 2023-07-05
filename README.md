@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Marlon from Germany<br><br>- 🔭 I’m currently working on CreoID<br>- 📚 I'm currently learning Python, JavaScript<br>- 💬 Discord: marl0nx</p>
+<p align="left">I'm Marlon from Germany<br><br>- 🔭 I’m currently working on CreoID<br>- 📚 I'm currently learning Python<br>- 💬 Discord: marl0nx</p>
 
 ###
 
