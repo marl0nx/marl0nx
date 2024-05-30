@@ -15,19 +15,19 @@
 
 ###
 
-<h1 align="center">Hey everyone 👋</h1>
+<h1 align="center">Hallöchen!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">💡  About Me</h3>
 
 ###
 
-<p align="left">I'm Marlon from Germany<br><br>- 🔭 I’m currently working for GalaxyBot<br>- 📚 I'm currently learning Python<br>- 💬 Discord: marl0nx</p>
+<p align="left">Ich bin der Marlon und komme aus Köln!<br><br>- 🔭 Du suchst nach einem coolen Discord Bot? Dann schau dir den GalaxyBot mal an!<br>- 📚 Aktuell lerne ich Python.<br>- 💬 Discord: marl0nx</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language And Tools</h3>
 
 ###
 
