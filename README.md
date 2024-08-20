@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Ich bin der Marlon und komme aus Köln!<br><br>- 🔭 Du suchst nach einem coolen Discord Bot? Dann schau dir den GalaxyBot mal an!<br>- 📚 Aktuell lerne ich Python.<br>- 💬 Discord: marl0nx</p>
+<p align="left">Ich bin der Marlon und komme aus Köln!<br><br>- 📚 Aktuell lerne ich Python.<br>- 💬 Discord: marl0nx</p>
 
 ###
 
