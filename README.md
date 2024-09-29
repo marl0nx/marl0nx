@@ -1,6 +1,6 @@
 <!-- Oberer Header-Bereich mit großem Emoji -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/1032874064731185152/1c11e95120aad84bdfc171712b8f8c5d.png?size=4096" width="150" alt="Coding GIF">
+  <img src="https://avatars.githubusercontent.com/u/49077543?v=4" width="150" alt="Coding GIF">
   <h1>Hallo, ich bin der Marlon 👋</h1>
   <p>🌍 IT Enthusiast | 💡 Problemlöser | 🤝 Teamworker</p>
 </div>
