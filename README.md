@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td align="center"><b>Sprachen</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python,java,js" width="150" alt="Languages"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java,python,js" width="150" alt="Languages"></td>
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
@@ -28,11 +28,11 @@
     </tr>
     <tr>
       <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=flask,fastapi,discord,bots,mongodb" width="250" alt="Backend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=spring,flask,discord,bots,mongodb,mysql" width="250" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,stackoverflow,cloudflare,vscode,pycharm,idea,webstorm" width="400" alt="Tools"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,stackoverflow,cloudflare,vscode,idea,pycharm,webstorm" width="400" alt="Tools"></td>
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
@@ -48,7 +48,7 @@
 
 <div align="center">
   <p>
-    Als interessierter Linux-Enthusiast und Python-Entwickler absolviere ich seit August 2024 mein Fachabitur zum Informationstechnischen Assistenten am Carl-Reuther Berufskolleg in Hennef. Mit meiner technischen Affinität und Problemlösungsfähigkeit strebe ich eine Karriere in der IT-Branche an. Gespannt auf das, was die Zukunft mit sich bringt, gehe ich voller Leidenschaft und Lernbereitschaft an neue Herausforderungen.
+    Als interessierter Linux-Enthusiast und BackEnd-Entwickler absolviere ich seit August 2024 mein Fachabitur zum Informationstechnischen Assistenten am Carl-Reuther Berufskolleg in Hennef. Mit meiner technischen Affinität und Problemlösungsfähigkeit strebe ich eine Karriere in der IT-Branche an. Gespannt auf das, was die Zukunft mit sich bringt, gehe ich voller Leidenschaft und Lernbereitschaft an neue Herausforderungen.
   </p>
 </div>
 
