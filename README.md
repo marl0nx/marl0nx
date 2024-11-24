@@ -48,7 +48,7 @@
 
 <div align="center">
   <p>
-    Als interessierter Linux-Enthusiast und BackEnd-Entwickler absolviere ich seit August 2024 mein Fachabitur zum Informationstechnischen Assistenten am Carl-Reuther Berufskolleg in Hennef. Mit meiner technischen Affinität und Problemlösungsfähigkeit strebe ich eine Karriere in der IT-Branche an. Gespannt auf das, was die Zukunft mit sich bringt, gehe ich voller Leidenschaft und Lernbereitschaft an neue Herausforderungen.
+    Als interessierter Linux-Enthusiast und Backend-Entwickler absolviere ich seit August 2024 mein Fachabitur zum Informationstechnischen Assistenten am Carl-Reuther Berufskolleg in Hennef. Mit meiner technischen Affinität und Problemlösungsfähigkeit strebe ich eine Karriere in der IT-Branche an. Gespannt auf das, was die Zukunft mit sich bringt, gehe ich voller Leidenschaft und Lernbereitschaft an neue Herausforderungen.
   </p>
 </div>
 
