@@ -14,6 +14,12 @@
 
 ---
 
+<div align="center">
+  <a href="https://discord.com/users/1032874064731185152"><img src="https://lanyard.cnrad.dev/api/1032874064731185152?hideBadges=false" /></a>
+</div>
+
+---
+
 <!-- Tech Stack mit Skillicons und individuell angepasstem Style -->
 <h2 align="center">⚙️ Tech-Stack</h2>
 <div align="center">
@@ -48,7 +54,7 @@
 
 <div align="center">
   <p>
-    Als interessierter Backend-Entwickler und IT-Enthusiast absolviere ich seit August 2024 mein Fachabitur zum Informationstechnischen Assistenten am Carl-Reuther Berufskolleg in Hennef. Mit meiner technischen Affinität und Problemlösungsfähigkeit strebe ich eine Karriere in der IT-Branche an. Gespannt auf das, was die Zukunft mit sich bringt, gehe ich voller Leidenschaft und Lernbereitschaft an neue Herausforderungen.
+    Als interessierter Backend-Entwickler und IT-Enthusiast absolviere ich seit August 2024 mein Fachabitur zum Informationstechnischen Assistenten. Mit meiner technischen Affinität und Problemlösungsfähigkeit strebe ich eine Karriere in der IT-Branche an. Gespannt auf das, was die Zukunft mit sich bringt, gehe ich voller Leidenschaft und Lernbereitschaft an neue Herausforderungen.
   </p>
 </div>
 
