@@ -63,5 +63,5 @@
 <!-- Animation mit progressiver Aktualisierung -->
 <h2 align="center">🔥 Aktueller Fokus</h2>
 <p align="center">
-    Aktuell lerne ich <b>Java</b> durch mein Fachabitur als ITA. Es macht mir eine menge Spaß!
+    Aktuell lerne ich <b>Java</b> durch mein Fachabitur als ITA. Außerdem fundiere ich meine Kenntnisse in <b>TypeScript</b>.
 </p>
