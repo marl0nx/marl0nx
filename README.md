@@ -30,11 +30,11 @@
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind" width="200" alt="Frontend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt" width="250" alt="Frontend"></td>
     </tr>
     <tr>
       <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=spring,flask,discord,bots,mongodb,mysql" width="250" alt="Backend"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=spring,express,flask,discord,bots,mongodb,mysql" width="350" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
