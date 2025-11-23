@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian" width="200" alt="Tools"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,debian" width="250" alt="Tools"></td>
     </tr>
   </table>
 </div>
