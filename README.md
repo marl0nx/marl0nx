@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td align="center"><b>Sprachen</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java,python,ts,js" width="200" alt="Languages"></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java,ts,js,python" width="200" alt="Languages"></td>
     </tr>
     <tr>
       <td align="center"><b>Frontend</b></td>
