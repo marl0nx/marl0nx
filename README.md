@@ -63,5 +63,5 @@
 <!-- Animation mit progressiver Aktualisierung -->
 <h2 align="center">🔥 Aktueller Fokus</h2>
 <p align="center">
-    Entwicklung von ZugNet, einer Java-basierten Anwendung zur Anzeige von Live-Zuginformationen.
+    ...
 </p>
