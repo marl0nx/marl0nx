@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=github,stackoverflow,cloudflare,figma,vscode,idea,pycharm,webstorm" width="400" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=github,stackoverflow,cloudflare,figma,vscode,idea,webstorm" width="350" alt="Tools"></td>
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
