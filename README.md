@@ -63,5 +63,5 @@
 <!-- Animation mit progressiver Aktualisierung -->
 <h2 align="center">🔥 Aktueller Fokus</h2>
 <p align="center">
-    ...
+    Aktuell lerne ich TypeScript (Nuxt) und Go, um skalierbare, schnelle Webanwendungen entwickeln zu können.
 </p>
