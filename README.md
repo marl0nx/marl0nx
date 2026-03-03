@@ -26,23 +26,19 @@
   <table>
     <tr>
       <td align="center"><b>Sprachen</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=java,ts,js,go,python" width="250" alt="Languages"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=java,ts,js,go,python,html,css" width="350" alt="Languages"></td>
     </tr>
     <tr>
-      <td align="center"><b>Frontend</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=html,css,md,tailwind,nuxt" width="250" alt="Frontend"></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Backend & Datenbank</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=spring,nestjs,discord,bots,mysql" width="250" alt="Backend"></td>
+      <td align="center"><b>Frameworks</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=spring,nestjs,flask,nuxt,tailwind,discordjs,bots,mysql" width="400" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=github,stackoverflow,cloudflare,figma,vscode,idea,webstorm" width="350" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=github,bun,stackoverflow,cloudflare,figma,vscode,idea,webstorm" width="400" alt="Tools"></td>
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,debian" width="250" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=apple,windows,linux" width="150" alt="Tools"></td>
     </tr>
   </table>
 </div>
