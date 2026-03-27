@@ -30,11 +30,15 @@
     </tr>
     <tr>
       <td align="center"><b>Frameworks</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=spring,nestjs,flask,nuxt,tailwind,discordjs,bots,mysql" width="400" alt="Backend"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=spring,nestjs,flask,nuxt,tailwind,discordjs,bots" width="350" alt="Backend"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Datenbanken</b></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" width="150" alt="Backend"></td>
     </tr>
     <tr>
       <td align="center"><b>Tools & DevOps</b></td>
-      <td align="left"><img src="https://skillicons.dev/icons?i=github,bun,stackoverflow,cloudflare,figma,vscode,idea,webstorm" width="400" alt="Tools"></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=github,bun,docker,stackoverflow,cloudflare,figma,vscode,idea" width="400" alt="Tools"></td>
     </tr>
     <tr>
       <td align="center"><b>Betriebssysteme</b></td>
